@@ -1,0 +1,5 @@
+-- Applied to Supabase project wrtnltpzmjwwgchapkui as migration initial_commercial_core.
+-- Source-of-truth schema: profiles, accounts, contacts, relationships,
+-- interactions, market intelligence, opportunities and next steps.
+-- All public tables have RLS enabled; new users remain pending until an admin
+-- explicitly activates them.
